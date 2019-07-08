@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Clima
@@ -60,3 +61,6 @@ end
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+=======
+# ios-weather-app
+>>>>>>> a4bdb4cb46e9aca82d416a40762e9a97b1e804a1
